@@ -1,0 +1,83 @@
+#encabezado{
+  position: absolute;
+  top:0;
+  height: 12%;
+  left: 0;
+  width: 100%;
+  background-color:#59ff5b ;
+}
+#Evolucion{
+  position: absolute;
+  top:0;
+  height: 12%;
+  left: 0;
+  width: 100%;
+  background-color:burlywood ;
+}
+#menu{
+  position:absolute;
+  top:9%;
+   left: 0;
+  height: 4%;
+  width: 100%;
+  background-color:#33a9a5 ;
+    
+}
+
+#menu a:visited{
+    color:navy;
+}
+
+#menu a:hover{
+    
+    color:white;
+}
+
+#BarraLateral{
+  position:absolute;
+  top:12%;
+  left: 0;
+  height: 81%;
+  width: 20%;
+  background-color:#879bf6 ;
+  color: black;
+}
+
+#contenido{
+  position:absolute;
+  top:12%;
+  left: 20%;
+  height: 81%;
+  width: 80%;
+  background-color:#879bf6 ;
+  color: black;
+  overflow:auto;
+    
+}
+#Cont_Evo{
+  position:absolute;
+  top:12%;
+  left: 0%;
+  right: 100%;
+  height: 87%;
+  width: 100%;
+  background-color:#879bf6 ;
+  color: black;
+  overflow:auto;
+    
+}
+
+
+
+
+
+#PiePagina{
+ position:absolute;
+ bottom:0;
+  left: 0;
+  height: 7%;
+  width: 100%;
+  background-color:#8eac7d ;
+  color: black;
+  text-align: center;  
+}
